@@ -1,4 +1,4 @@
-# MS-Engage Recommender-System-Project
+# Major Project - 1
 
 * **Movies Recommender System:** This part is focused around building two kinds of recommendation engines; namely the Simple Generic Recommender and the Content Based Filter.
 
